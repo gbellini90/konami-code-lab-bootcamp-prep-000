@@ -27,7 +27,6 @@ if(key===codes[index]) {
   {
    alert("YOU DID IT!");
     index=0
-    return
   }
 }
     else {
